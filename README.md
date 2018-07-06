@@ -1,2 +1,1 @@
-# cloud
-keyword searching using OSPF algorithm
+C implemetation of order preserving Binary Search Tree 
